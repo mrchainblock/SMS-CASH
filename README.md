@@ -1,1 +1,1 @@
-sms coin eay send and recive coins with phone numbers
+sms coin easy send and recive coins with phone numbers
